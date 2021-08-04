@@ -1,0 +1,24 @@
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.exe
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.pdb
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.xml
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\WindowsApplication1.Form1.resources
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\WindowsApplication1.Resources.resources
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.vbproj.GenerateResource.Cache
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.exe
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.xml
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.pdb
+R:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.exe
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.xml
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.pdb
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.exe.manifest
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.application
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.exe
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.pdb
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\bin\Debug\Bil Ganjil Dan Bil Bulat.xml
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\RR_ID.Form1.resources
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\RR_ID.Form2.resources
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\RR_ID.Resources.resources
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.vbproj.GenerateResource.Cache
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.exe.manifest
+D:\Documents\Bil Ganjil Dan Bil Bulat\Bil Ganjil Dan Bil Bulat\obj\x86\Debug\Bil Ganjil Dan Bil Bulat.application

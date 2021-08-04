@@ -1,0 +1,10 @@
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\bin\Debug\graphwithtimer.exe
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\bin\Debug\graphwithtimer.pdb
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\bin\Debug\graphwithtimer.xml
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.Form1.resources
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.Resources.resources
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.vbproj.GenerateResource.Cache
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.exe
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.xml
+C:\Users\gege\Documents\Visual Studio 2005\Projects\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.pdb

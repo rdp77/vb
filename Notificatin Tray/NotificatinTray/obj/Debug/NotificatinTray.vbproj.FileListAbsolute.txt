@@ -1,0 +1,22 @@
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\bin\Debug\NotificatinTray.exe
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\bin\Debug\NotificatinTray.pdb
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\bin\Debug\NotificatinTray.xml
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.Form1.resources
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.Form2.resources
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.Resources.resources
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.vbproj.GenerateResource.Cache
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.exe
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.xml
+C:\Users\gege\Documents\Visual Studio 2008\Projects\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.pdb
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.exe
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.xml
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.pdb
+D:\New folder\NotificatinTray\NotificatinTray\bin\Debug\NotificatinTray.exe
+D:\New folder\NotificatinTray\NotificatinTray\bin\Debug\NotificatinTray.pdb
+D:\New folder\NotificatinTray\NotificatinTray\bin\Debug\NotificatinTray.xml
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.vbprojResolveAssemblyReference.cache
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.Form1.resources
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.Form2.resources
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.Resources.resources
+D:\New folder\NotificatinTray\NotificatinTray\obj\Debug\NotificatinTray.vbproj.GenerateResource.Cache

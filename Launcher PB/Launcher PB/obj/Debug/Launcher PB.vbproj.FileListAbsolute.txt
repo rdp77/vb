@@ -1,0 +1,12 @@
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\bin\Debug\Launcher PB.exe.config
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\bin\Debug\Launcher PB.exe
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\bin\Debug\Launcher PB.pdb
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\bin\Debug\Launcher PB.xml
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\obj\Debug\Launcher PB.vbprojResolveAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\obj\Debug\Launcher_PB.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\obj\Debug\Launcher_PB.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\obj\Debug\Launcher PB.vbproj.GenerateResource.Cache
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\obj\Debug\Launcher PB.exe
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\obj\Debug\Launcher PB.xml
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\obj\Debug\Launcher PB.pdb
+D:\Documents\Pemrograman\Visual Basic\Launcher PB\Launcher PB\bin\Debug\SkinSoft.VisualStyler.xml

@@ -1,0 +1,13 @@
+USE DB_Pegawai
+GO
+/****** Object:  StoredProcedure [dbo].[INSERT_PEGAWAI]   Script Date: 06/16/2013 21:25:30 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[INSERT_PEGAWAI] 
+(@NIP Varchar(30), @Nama_Pegawai Varchar(30), @Pangkat Varchar(30), @Golongan Varchar(30), @Jabatan Varchar(30), @Unit_Kerja Varchar(30))
+AS
+BEGIN
+INSERT INTO T_Pegawai VALUES (@NIP, @Nama_Pegawai, @Pangkat, @Golongan, @Jabatan, @Unit_Kerja)
+END;

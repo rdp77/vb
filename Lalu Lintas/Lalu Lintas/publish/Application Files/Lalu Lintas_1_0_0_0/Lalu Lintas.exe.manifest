@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Lalu Lintas.exe" version="1.0.0.0" publicKeyToken="eed4216574309f01" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Logo ALL In One.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Lalu Lintas" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Lalu Lintas.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lalu Lintas.exe" size="135112">
+      <assemblyIdentity name="Lalu Lintas" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Kr/P7P2r86i0YtzQAHI9VmuMVbixftLXa8LdRldGnU0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualBasic.PowerPacks.dll" size="269568">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks" version="12.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9SpbDh0TsZfUzAYy9xwqO8RKYqWm3x7iEW1lR4k90vY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Lalu Lintas.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Logo ALL In One.ico" size="108142">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ufXR0fDPNOLFHXsxQNPg1UAl/uDlkvDjxZ6PVf8qDOs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CYBERZOX\CyberZox" issuerKeyHash="f4c2a54a5f5e7953eebdb4b524c1d72931add2c5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>F//oZaACukoplGvEQw1htx2CXdxnBg73AonY+do0KK0=</DigestValue></Reference></SignedInfo><SignatureValue>CeuDbDhd/0ZH/018GecS1FcDMTKuaij3FLONEMznxCg/7moObx9aJozKiO0zFRD6mhd5R7PXd6Xhr4MQWU9oAt8H0tmnNbgFNIMQ4WmPaOJRhWxlVmOPzpSxSFQWzWvXGNDMCHHhaWFjwXXiNJNJsA0bd0dnkJhwyvKH86wEfHI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tmr41CilG2susZRvj2mdZwj70lHL8xyCamFLCt23sJGE5QlzPs7VYAXRfoG/ZxYqIQfZG3E6Mwmyk+5f6MCs2uuviFEHMaIG5maZzQrLudb5etgA65hgOI24HZO1iboXk2YzlvsAD2xyj62EKu5+eMRDfIEHMK+75K9ZSQJe2Js=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ad2834daf9d88902f70e0667dc5d821db7610d43c46b94294aba02a065e8ff17" Description="" Url=""><as:assemblyIdentity name="Lalu Lintas.exe" version="1.0.0.0" publicKeyToken="eed4216574309f01" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CYBERZOX\CyberZox</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>MmIWSrGQnzPzJ3PrBmLh/EbEUOQr1y0yuuvSdMqROEo=</DigestValue></Reference></SignedInfo><SignatureValue>pWT5eI0Or4fdZ0cONbV6BYm98qbZQ48pbqf0core5ip35euSxFL47usj0bH7UNupa9oUKTEJHPdxE6FeHPvaKEOEWyCnHKYM7HFVfUhWRTSfJ4b9qNct4EI8xlbIh71vBxuTTZcUBu5EUz3c4yy/e4YYCjMkI5wQ1eAlN7p3j3Q=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tmr41CilG2susZRvj2mdZwj70lHL8xyCamFLCt23sJGE5QlzPs7VYAXRfoG/ZxYqIQfZG3E6Mwmyk+5f6MCs2uuviFEHMaIG5maZzQrLudb5etgA65hgOI24HZO1iboXk2YzlvsAD2xyj62EKu5+eMRDfIEHMK+75K9ZSQJe2Js=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQMDH0JN0/u5RJh2aDlZ7dsjANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAQwBZAEIARQBSAFoATwBYAFwAQwB5AGIAZQByAFoAbwB4MB4XDTE2MDQxNjAzNDIyNFoXDTE3MDQxNjA5NDIyNFowLTErMCkGA1UEAx4iAEMAWQBCAEUAUgBaAE8AWABcAEMAeQBiAGUAcgBaAG8AeDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtmr41CilG2susZRvj2mdZwj70lHL8xyCamFLCt23sJGE5QlzPs7VYAXRfoG/ZxYqIQfZG3E6Mwmyk+5f6MCs2uuviFEHMaIG5maZzQrLudb5etgA65hgOI24HZO1iboXk2YzlvsAD2xyj62EKu5+eMRDfIEHMK+75K9ZSQJe2JsCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBhIVWhTBNSs/9xg+XJdkaXYTgxQaesY52eGaqubPguA+/bc6bCGF1u4y9F+/brAFjgovo4XPOu3TstPm9djhTaP6h7na+DozUtyULbQGs99nSU+ng9n96R3W3YpyMS5cU7Weo80KEv7etBDn1JCYCc9r8zAb02p5cYT2BEdYDI/Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

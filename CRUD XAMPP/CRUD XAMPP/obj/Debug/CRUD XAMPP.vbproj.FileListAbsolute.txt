@@ -1,0 +1,14 @@
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\bin\Debug\CRUD XAMPP.exe.config
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\bin\Debug\CRUD XAMPP.exe
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\bin\Debug\CRUD XAMPP.pdb
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\bin\Debug\CRUD XAMPP.xml
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\bin\Debug\MetroSuite 2.0.dll
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\obj\Debug\CRUD XAMPP.vbprojResolveAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\obj\Debug\CRUD_XAMPP.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\obj\Debug\CRUD_XAMPP.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\obj\Debug\CRUD XAMPP.vbproj.GenerateResource.Cache
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\obj\Debug\CRUD XAMPP.exe
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\obj\Debug\CRUD XAMPP.xml
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\obj\Debug\CRUD XAMPP.pdb
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\bin\Debug\MySql.Data.dll
+D:\Documents\Pemrograman\Visual Basic\CRUD XAMPP\CRUD XAMPP\bin\Debug\MySql.Data.xml

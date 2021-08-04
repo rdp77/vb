@@ -1,0 +1,21 @@
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\bin\Debug\myRichTextBoxEx.exe
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\bin\Debug\myRichTextBoxEx.pdb
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\bin\Debug\myRichTextBoxEx.xml
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.exe
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.xml
+D:\DropBox\PVBI\Code\Update\VB.Net\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.pdb
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.exe
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.xml
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.pdb
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\bin\Debug\myRichTextBoxEx.exe
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\bin\Debug\myRichTextBoxEx.pdb
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\bin\Debug\myRichTextBoxEx.xml
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.vbprojResolveAssemblyReference.cache
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\New folder\myRichTextBoxEx\myRichTextBoxEx\obj\x86\Debug\myRichTextBoxEx.vbproj.GenerateResource.Cache

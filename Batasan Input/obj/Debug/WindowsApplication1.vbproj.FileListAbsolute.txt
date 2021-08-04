@@ -1,0 +1,13 @@
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\DropBox\PVBI\Code\Update\Batasan\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\New folder\Batasan\VBNet\obj\Debug\WindowsApplication1.exe
+D:\New folder\Batasan\VBNet\obj\Debug\WindowsApplication1.xml
+D:\New folder\Batasan\VBNet\obj\Debug\WindowsApplication1.pdb

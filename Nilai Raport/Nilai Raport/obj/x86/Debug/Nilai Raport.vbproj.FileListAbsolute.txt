@@ -1,0 +1,12 @@
+R:\Documents\Nilai Raport\Nilai Raport\bin\Debug\Nilai Raport.exe
+R:\Documents\Nilai Raport\Nilai Raport\bin\Debug\Nilai Raport.pdb
+R:\Documents\Nilai Raport\Nilai Raport\bin\Debug\Nilai Raport.xml
+R:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\WindowsApplication1.Form1.resources
+R:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\WindowsApplication1.Resources.resources
+R:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\Nilai Raport.vbproj.GenerateResource.Cache
+R:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\Nilai Raport.exe
+R:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\Nilai Raport.xml
+R:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\Nilai Raport.pdb
+D:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\Nilai Raport.exe
+D:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\Nilai Raport.xml
+D:\Documents\Nilai Raport\Nilai Raport\obj\x86\Debug\Nilai Raport.pdb

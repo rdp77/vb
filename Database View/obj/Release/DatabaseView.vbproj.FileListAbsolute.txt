@@ -1,0 +1,25 @@
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\bin\Release\DatabaseView.exe
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\bin\Release\DatabaseView.pdb
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\bin\Release\DatabaseView.xml
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\ResolveAssemblyReference.cache
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\DatabaseView.frmConnection.resources
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\DatabaseView.frmLihat.resources
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\DatabaseView.Resources.resources
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\DatabaseView.vbproj.GenerateResource.Cache
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\DatabaseView.exe
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\DatabaseView.xml
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Release\DatabaseView.pdb
+E:\Latihan VB.Net\DatabaseView\bin\Release\DatabaseView.exe
+E:\Latihan VB.Net\DatabaseView\bin\Release\DatabaseView.pdb
+E:\Latihan VB.Net\DatabaseView\bin\Release\DatabaseView.xml
+E:\Latihan VB.Net\DatabaseView\obj\Release\ResolveAssemblyReference.cache
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.frmBuatTabel.resources
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.frmConnection.resources
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.frmLihat.resources
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.frmStruktur.resources
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.frmRekam.resources
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.Resources.resources
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.vbproj.GenerateResource.Cache
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.exe
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.xml
+E:\Latihan VB.Net\DatabaseView\obj\Release\DatabaseView.pdb

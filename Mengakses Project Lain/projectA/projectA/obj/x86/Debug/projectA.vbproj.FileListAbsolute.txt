@@ -1,0 +1,17 @@
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\projectA.fromA.resources
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\projectA.Resources.resources
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Latihan\accessAnotherProject\projectA\projectA\bin\Debug\projectA.exe
+D:\Latihan\accessAnotherProject\projectA\projectA\bin\Debug\projectA.pdb
+D:\Latihan\accessAnotherProject\projectA\projectA\bin\Debug\projectA.xml
+D:\Latihan\accessAnotherProject\projectA\projectA\bin\Debug\projectB.exe
+D:\Latihan\accessAnotherProject\projectA\projectA\bin\Debug\projectB.pdb
+D:\Latihan\accessAnotherProject\projectA\projectA\bin\Debug\projectB.xml
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\projectA.exe
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\projectA.xml
+D:\Latihan\accessAnotherProject\projectA\projectA\obj\x86\Debug\projectA.pdb
+D:\New folder\Mengakses Project Lain\projectA\projectA\obj\x86\Debug\projectA.exe
+D:\New folder\Mengakses Project Lain\projectA\projectA\obj\x86\Debug\projectA.xml
+D:\New folder\Mengakses Project Lain\projectA\projectA\obj\x86\Debug\projectA.pdb

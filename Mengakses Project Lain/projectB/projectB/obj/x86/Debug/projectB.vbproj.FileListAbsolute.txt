@@ -1,0 +1,11 @@
+D:\Latihan\accessAnotherProject\projectB\projectB\bin\Debug\projectB.exe
+D:\Latihan\accessAnotherProject\projectB\projectB\bin\Debug\projectB.pdb
+D:\Latihan\accessAnotherProject\projectB\projectB\bin\Debug\projectB.xml
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\projectB.formB.resources
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\projectB.Resources.resources
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\projectB.exe
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\projectB.xml
+D:\Latihan\accessAnotherProject\projectB\projectB\obj\x86\Debug\projectB.pdb

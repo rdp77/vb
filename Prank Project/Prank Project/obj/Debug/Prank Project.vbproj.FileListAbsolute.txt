@@ -1,0 +1,11 @@
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\obj\Debug\Prank Project.vbprojResolveAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\obj\Debug\Prank Project.vbproj.GenerateResource.Cache
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\bin\Debug\Microsoft.Start.exe.config
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\bin\Debug\Microsoft.Start.exe
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\bin\Debug\Microsoft.Start.pdb
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\bin\Debug\Microsoft.Start.xml
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\obj\Debug\Microsoft.Start.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\obj\Debug\Microsoft.Start.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\obj\Debug\Microsoft.Start.exe
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\obj\Debug\Microsoft.Start.xml
+D:\Documents\Pemrograman\Visual Basic\Prank Project\Prank Project\obj\Debug\Microsoft.Start.pdb

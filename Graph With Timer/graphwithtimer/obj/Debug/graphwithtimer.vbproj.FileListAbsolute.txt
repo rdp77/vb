@@ -1,0 +1,10 @@
+D:\New folder\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.exe
+D:\New folder\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.xml
+D:\New folder\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.pdb
+D:\New folder\graphwithtimer\graphwithtimer\bin\Debug\graphwithtimer.exe
+D:\New folder\graphwithtimer\graphwithtimer\bin\Debug\graphwithtimer.pdb
+D:\New folder\graphwithtimer\graphwithtimer\bin\Debug\graphwithtimer.xml
+D:\New folder\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.vbprojResolveAssemblyReference.cache
+D:\New folder\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.Form1.resources
+D:\New folder\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.Resources.resources
+D:\New folder\graphwithtimer\graphwithtimer\obj\Debug\graphwithtimer.vbproj.GenerateResource.Cache

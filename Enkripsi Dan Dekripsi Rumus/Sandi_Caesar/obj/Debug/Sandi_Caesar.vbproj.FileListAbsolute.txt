@@ -1,0 +1,23 @@
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\bin\Debug\Sandi_Caesar.exe
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\bin\Debug\Sandi_Caesar.pdb
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\bin\Debug\Sandi_Caesar.xml
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\obj\Debug\Sandi_Caesar.Form1.resources
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\obj\Debug\Sandi_Caesar.Resources.resources
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\obj\Debug\Sandi_Caesar.vbproj.GenerateResource.Cache
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\obj\Debug\Sandi_Caesar.exe
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\obj\Debug\Sandi_Caesar.xml
+C:\Users\Yansyah\AppData\Local\Temporary Projects\Sandi_Caesar\obj\Debug\Sandi_Caesar.pdb
+G:\Data\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.exe
+G:\Data\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.xml
+G:\Data\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.pdb
+D:\New folder\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.exe
+D:\New folder\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.xml
+D:\New folder\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.pdb
+D:\New folder\Sandi_Caesar\Sandi_Caesar\bin\Debug\Sandi_Caesar.exe
+D:\New folder\Sandi_Caesar\Sandi_Caesar\bin\Debug\Sandi_Caesar.pdb
+D:\New folder\Sandi_Caesar\Sandi_Caesar\bin\Debug\Sandi_Caesar.xml
+D:\New folder\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.vbprojResolveAssemblyReference.cache
+D:\New folder\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.Form1.resources
+D:\New folder\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.Resources.resources
+D:\New folder\Sandi_Caesar\Sandi_Caesar\obj\Debug\Sandi_Caesar.vbproj.GenerateResource.Cache

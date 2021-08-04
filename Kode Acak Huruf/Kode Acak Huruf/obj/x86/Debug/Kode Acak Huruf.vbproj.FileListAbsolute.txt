@@ -1,0 +1,9 @@
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\bin\Debug\Kode Acak Huruf.exe
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\bin\Debug\Kode Acak Huruf.pdb
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\bin\Debug\Kode Acak Huruf.xml
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\obj\x86\Debug\Kode_Acak_Huruf.Form1.resources
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\obj\x86\Debug\Kode_Acak_Huruf.Resources.resources
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\obj\x86\Debug\Kode Acak Huruf.vbproj.GenerateResource.Cache
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\obj\x86\Debug\Kode Acak Huruf.exe
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\obj\x86\Debug\Kode Acak Huruf.xml
+D:\Documents\Kode Acak Huruf\Kode Acak Huruf\obj\x86\Debug\Kode Acak Huruf.pdb

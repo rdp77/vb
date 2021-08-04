@@ -1,0 +1,55 @@
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\bin\Debug\DatabaseView.exe
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\bin\Debug\DatabaseView.pdb
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\bin\Debug\DatabaseView.xml
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\ResolveAssemblyReference.cache
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\DatabaseView.frmConnection.resources
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\DatabaseView.Resources.resources
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\DatabaseView.vbproj.GenerateResource.Cache
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\DatabaseView.exe
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\DatabaseView.xml
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\DatabaseView.pdb
+F:\SIPENCAKER\SIPENCAKER\DatabaseView\obj\Debug\DatabaseView.frmLihat.resources
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.exe
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.xml
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.pdb
+E:\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.exe
+E:\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.pdb
+E:\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.xml
+E:\Latihan VB.Net\DatabaseView\obj\Debug\ResolveAssemblyReference.cache
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmConnection.resources
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmLihat.resources
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.Resources.resources
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmBuatTabel.resources
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmStruktur.resources
+E:\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.exe.config
+E:\Latihan VB.Net\DatabaseView\obj\Debug\GenerateResource.read.1.tlog
+E:\Latihan VB.Net\DatabaseView\obj\Debug\GenerateResource.write.1.tlog
+E:\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmRekam1.resources
+E:\NewNew\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.exe.config
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.xml
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.pdb
+E:\NewNew\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.exe
+E:\NewNew\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.pdb
+E:\NewNew\Latihan VB.Net\DatabaseView\bin\Debug\DatabaseView.xml
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\ResolveAssemblyReference.cache
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmRekam1.resources
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmBuatTabel.resources
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmConnection.resources
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmLihat.resources
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.frmStruktur.resources
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.Resources.resources
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\GenerateResource.read.1.tlog
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\GenerateResource.write.1.tlog
+E:\NewNew\Latihan VB.Net\DatabaseView\obj\Debug\DatabaseView.exe
+D:\New folder\DatabaseView\bin\Debug\DatabaseView.exe.config
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.exe
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.xml
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.pdb
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.vbprojResolveAssemblyReference.cache
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.frmRekam1.resources
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.frmBuatTabel.resources
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.frmConnection.resources
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.frmLihat.resources
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.frmStruktur.resources
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.Resources.resources
+D:\New folder\DatabaseView\obj\Debug\DatabaseView.vbproj.GenerateResource.Cache

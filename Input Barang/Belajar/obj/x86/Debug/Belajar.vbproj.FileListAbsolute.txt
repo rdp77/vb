@@ -1,0 +1,43 @@
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\bin\Debug\Belajar.exe
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\bin\Debug\Belajar.pdb
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\bin\Debug\Belajar.xml
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\Belajar.Form1.resources
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\Belajar.Resources.resources
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\Belajar.exe
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\Belajar.xml
+C:\Users\ANDRI\AppData\Local\Temporary Projects\Belajar\obj\x86\Debug\Belajar.pdb
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\Belajar.exe
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\Belajar.xml
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\Belajar.pdb
+E:\Project Vb.net\Belajar\Belajar\bin\Debug\Belajar.exe
+E:\Project Vb.net\Belajar\Belajar\bin\Debug\Belajar.pdb
+E:\Project Vb.net\Belajar\Belajar\bin\Debug\Belajar.xml
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\Belajar.Form1.resources
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\Belajar.Resources.resources
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Vb.net\Belajar\Belajar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\Belajar.exe
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\Belajar.xml
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\Belajar.pdb
+D:\temp\BelajarDatagrid\Belajar\Belajar\bin\Debug\Belajar.exe
+D:\temp\BelajarDatagrid\Belajar\Belajar\bin\Debug\Belajar.pdb
+D:\temp\BelajarDatagrid\Belajar\Belajar\bin\Debug\Belajar.xml
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\Belajar.Form1.resources
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\Belajar.Resources.resources
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\temp\BelajarDatagrid\Belajar\Belajar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder\Belajar\Belajar\obj\x86\Debug\Belajar.exe
+D:\New folder\Belajar\Belajar\obj\x86\Debug\Belajar.xml
+D:\New folder\Belajar\Belajar\obj\x86\Debug\Belajar.pdb
+D:\New folder\Belajar\Belajar\bin\Debug\Belajar.exe
+D:\New folder\Belajar\Belajar\bin\Debug\Belajar.pdb
+D:\New folder\Belajar\Belajar\bin\Debug\Belajar.xml
+D:\New folder\Belajar\Belajar\obj\x86\Debug\Belajar.vbprojResolveAssemblyReference.cache
+D:\New folder\Belajar\Belajar\obj\x86\Debug\Belajar.Form1.resources
+D:\New folder\Belajar\Belajar\obj\x86\Debug\Belajar.Resources.resources
+D:\New folder\Belajar\Belajar\obj\x86\Debug\Belajar.vbproj.GenerateResource.Cache

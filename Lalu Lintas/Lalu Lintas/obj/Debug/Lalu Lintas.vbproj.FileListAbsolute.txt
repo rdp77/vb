@@ -1,0 +1,110 @@
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.pdb
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.xml
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbprojResolveAssemblyReference.cache
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Form1.resources
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Resources.resources
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbproj.GenerateResource.Cache
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\cyberzox\documents\visual studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\CyberZox\Documents\Visual Studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Documents\Visual Studio 2015\Projects\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.application
+C:\Users\CyberZox\Documents\Visual Studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Documents\Visual Studio 2015\Projects\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.application
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.manifest
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.application
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.pdb
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.xml
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbprojResolveAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbproj.GenerateResource.Cache
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe.manifest
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.application
+G:\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+G:\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+G:\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+G:\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+C:\Users\Rizky\Documents\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+C:\Users\Rizky\Documents\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+C:\Users\Rizky\Documents\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+C:\Users\Rizky\Documents\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.application
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.pdb
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.xml
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbprojResolveAssemblyReference.cache
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Form1.resources
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Resources.resources
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbproj.GenerateResource.Cache
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Desktop\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.application
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Lalu Lintas.application
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Lalu Lintas.exe
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Lalu Lintas.pdb
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Lalu Lintas.xml
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu Lintas.vbprojResolveAssemblyReference.cache
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu_Lintas.Form1.resources
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu_Lintas.Resources.resources
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu Lintas.vbproj.GenerateResource.Cache
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Desktop\Lalu Lintas - Copy\Lalu Lintas\obj\Debug\Lalu Lintas.application
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Lalu Lintas.exe.manifest
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Lalu Lintas.application
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Lalu Lintas.exe
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Lalu Lintas.pdb
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Lalu Lintas.xml
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu Lintas.vbprojResolveAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu_Lintas.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu_Lintas.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu Lintas.vbproj.GenerateResource.Cache
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu Lintas.exe.manifest
+D:\Documents\Pemrograman\Visual Basic\Lalu Lintas - Backup\Lalu Lintas\obj\Debug\Lalu Lintas.application
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.config
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.xml
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.pdb
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.application
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.exe
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.pdb
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Lalu Lintas.xml
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbprojResolveAssemblyReference.cache
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Form1.resources
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu_Lintas.Resources.resources
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.vbproj.GenerateResource.Cache
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.exe.manifest
+C:\Users\CyberZox\Downloads\Lalu Lintas\Lalu Lintas\obj\Debug\Lalu Lintas.application

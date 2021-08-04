@@ -1,0 +1,23 @@
+D:\Project\Desktop\test\configsample\configsample\bin\Debug\SampleKonfigurasi.exe.config
+D:\Project\Desktop\test\configsample\configsample\bin\Debug\SampleKonfigurasi.exe
+D:\Project\Desktop\test\configsample\configsample\bin\Debug\SampleKonfigurasi.pdb
+D:\Project\Desktop\test\configsample\configsample\bin\Debug\SampleKonfigurasi.xml
+D:\Project\Desktop\test\configsample\configsample\obj\x86\Debug\SampleKonfigurasi.frmMain.resources
+D:\Project\Desktop\test\configsample\configsample\obj\x86\Debug\SampleKonfigurasi.frmSetting.resources
+D:\Project\Desktop\test\configsample\configsample\obj\x86\Debug\SampleKonfigurasi.Resources.resources
+D:\Project\Desktop\test\configsample\configsample\obj\x86\Debug\configsample.vbproj.GenerateResource.Cache
+D:\Project\Desktop\test\configsample\configsample\obj\x86\Debug\SampleKonfigurasi.exe
+D:\Project\Desktop\test\configsample\configsample\obj\x86\Debug\SampleKonfigurasi.xml
+D:\Project\Desktop\test\configsample\configsample\obj\x86\Debug\SampleKonfigurasi.pdb
+D:\New folder\configsample\bin\Debug\SampleKonfigurasi.exe.config
+D:\New folder\configsample\obj\x86\Debug\SampleKonfigurasi.exe
+D:\New folder\configsample\obj\x86\Debug\SampleKonfigurasi.xml
+D:\New folder\configsample\obj\x86\Debug\SampleKonfigurasi.pdb
+D:\New folder\configsample\bin\Debug\SampleKonfigurasi.exe
+D:\New folder\configsample\bin\Debug\SampleKonfigurasi.pdb
+D:\New folder\configsample\bin\Debug\SampleKonfigurasi.xml
+D:\New folder\configsample\obj\x86\Debug\configsample.vbprojResolveAssemblyReference.cache
+D:\New folder\configsample\obj\x86\Debug\SampleKonfigurasi.frmMain.resources
+D:\New folder\configsample\obj\x86\Debug\SampleKonfigurasi.frmSetting.resources
+D:\New folder\configsample\obj\x86\Debug\SampleKonfigurasi.Resources.resources
+D:\New folder\configsample\obj\x86\Debug\configsample.vbproj.GenerateResource.Cache

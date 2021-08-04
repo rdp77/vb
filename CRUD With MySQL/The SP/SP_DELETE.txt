@@ -1,0 +1,13 @@
+USE DB_Pegawai
+GO
+/****** Object:  StoredProcedure [dbo].[DELETE_PEGAWAI]    Script Date: 06/16/2013 21:35:30 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[DELETE_PEGAWAI] 
+(@NIP Varchar(30))
+AS
+BEGIN
+DELETE FROM T_Pegawai WHERE NIP=@NIP
+END;

@@ -1,0 +1,33 @@
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\bin\Debug\gamesArrayControl.exe
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\bin\Debug\gamesArrayControl.pdb
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\bin\Debug\gamesArrayControl.xml
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.Form1.resources
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.Resources.resources
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.vbproj.GenerateResource.Cache
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.exe
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.xml
+C:\Users\gege\Documents\Visual Studio 2008\Projects\gamesArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.pdb
+C:\Users\gege\Documents\Visual Studio 2008\Projects\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.exe
+C:\Users\gege\Documents\Visual Studio 2008\Projects\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.xml
+C:\Users\gege\Documents\Visual Studio 2008\Projects\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.pdb
+D:\New folder\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.exe
+D:\New folder\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.xml
+D:\New folder\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.pdb
+D:\New folder\ArrayControl\gamesArrayControl\bin\Debug\gamesArrayControl.exe
+D:\New folder\ArrayControl\gamesArrayControl\bin\Debug\gamesArrayControl.pdb
+D:\New folder\ArrayControl\gamesArrayControl\bin\Debug\gamesArrayControl.xml
+D:\New folder\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.vbprojResolveAssemblyReference.cache
+D:\New folder\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.Form1.resources
+D:\New folder\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.Resources.resources
+D:\New folder\ArrayControl\gamesArrayControl\obj\Debug\gamesArrayControl.vbproj.GenerateResource.Cache
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\bin\Debug\gamesArrayControl.exe
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\bin\Debug\gamesArrayControl.pdb
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\bin\Debug\gamesArrayControl.xml
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\obj\Debug\gamesArrayControl.vbprojAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\obj\Debug\gamesArrayControl.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\obj\Debug\gamesArrayControl.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\obj\Debug\gamesArrayControl.vbproj.GenerateResource.cache
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\obj\Debug\gamesArrayControl.exe
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\obj\Debug\gamesArrayControl.xml
+D:\Documents\Pemrograman\Visual Basic\Acak Kata\gamesArrayControl\obj\Debug\gamesArrayControl.pdb

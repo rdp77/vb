@@ -1,0 +1,11 @@
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\bin\Debug\SimpleCRUD_Stored_Procedured_M$SQL.exe
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\bin\Debug\SimpleCRUD_Stored_Procedured_M$SQL.pdb
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\bin\Debug\SimpleCRUD_Stored_Procedured_M$SQL.xml
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\SimpleCRUD_Stored_Procedured_M_SQL.Form1.resources
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\SimpleCRUD_Stored_Procedured_M_SQL.Resources.resources
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\SimpleCRUD_Stored_Procedured_M$SQL.exe
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\SimpleCRUD_Stored_Procedured_M$SQL.xml
+D:\Fanny\New folder\SimpleCRUD_Stored_Procedured_M$SQL\SimpleCRUD_Stored_Procedured_M$SQL\obj\x86\Debug\SimpleCRUD_Stored_Procedured_M$SQL.pdb

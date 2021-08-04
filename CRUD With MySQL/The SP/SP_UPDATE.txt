@@ -1,0 +1,13 @@
+USE DB_Pegawai
+GO
+/****** Object:  StoredProcedure [dbo].[UPDATE_PEGAWAI]    Script Date: 06/16/2013 16:48:55 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE UPDATE_PEGAWAI
+(@NIP Varchar(30), @Nama_Pegawai Varchar(30), @Pangkat Varchar(30), @Golongan Varchar(30), @Jabatan Varchar(30), @Unit_Kerja Varchar(30))
+AS
+BEGIN
+UPDATE T_Pegawai SET Nama_Pegawai=@Nama_Pegawai, Pangkat=@Pangkat, Golongan=@Golongan, Jabatan=@Jabatan, Unit_Kerja=@Unit_Kerja WHERE NIP=@NIP
+END;

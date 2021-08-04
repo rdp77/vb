@@ -1,0 +1,14 @@
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe.config
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\bin\Debug\PBLauncher.exe
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\bin\Debug\PBLauncher.pdb
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\bin\Debug\PBLauncher.xml
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.vbprojAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.vbproj.GenerateResource.cache
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.vbproj.CoreCompileInputs.cache
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.exe
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.xml
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.pdb
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.SplashScreen.resources
+D:\Documents\Pemrograman\Visual Basic\PBLauncher\PBLauncher\obj\Debug\PBLauncher.Form2.resources

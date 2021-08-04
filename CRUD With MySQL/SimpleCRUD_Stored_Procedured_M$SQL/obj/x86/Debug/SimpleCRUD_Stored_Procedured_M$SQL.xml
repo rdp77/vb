@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SimpleCRUD_Stored_Procedured_M$SQL
+</name>
+</assembly>
+<members>
+<member name="P:SimpleCRUD_Stored_Procedured_M_SQL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SimpleCRUD_Stored_Procedured_M_SQL.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SimpleCRUD_Stored_Procedured_M_SQL.My.Resources.Resources.create_table">
+	<summary>
+  Looks up a localized string similar to USE DB_Pegawai
+
+IF OBJECT_ID('T_Pegawai', 'U') IS NOT NULL
+  DROP TABLE "dbo".T_Pegawai
+
+CREATE TABLE "T_Pegawai"
+(
+  "NIP" varchar(30) NOT NULL ,
+  "Nama_Pegawai" varchar(30),
+  "Pangkat" varchar(30),
+  "Golongan" varchar(30),
+  "Jabatan" varchar(30),
+  "Unit_Kerja" varchar(30),
+  CONSTRAINT "PK_NIP" PRIMARY KEY (NIP)
+)
+.
+</summary>
+</member><member name="T:SimpleCRUD_Stored_Procedured_M_SQL.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe.config
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\bin\Debug\Splash Screen.exe
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\bin\Debug\Splash Screen.pdb
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\bin\Debug\Splash Screen.xml
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\obj\Debug\Splash Screen.vbprojResolveAssemblyReference.cache
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.Form1.resources
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\obj\Debug\Splash_Screen.Resources.resources
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\obj\Debug\Splash Screen.vbproj.GenerateResource.Cache
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\obj\Debug\Splash Screen.exe
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\obj\Debug\Splash Screen.xml
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\obj\Debug\Splash Screen.pdb
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Documents\Pemrograman\Visual Basic\Splash Screen\Splash Screen\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
